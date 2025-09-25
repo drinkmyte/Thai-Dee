@@ -1,0 +1,1 @@
+console.error('public/pages/c1dmp.js: Private names are only allowed in property accesses (`obj.#wix`) or in `in` expressions (`#wix in obj`). (4:1)\n\n  2 |\n  3 | $w.onReady(function () {\n> 4 | \t#wix-ad-footer { display: none !important; }\n    | \t^\n  5 |\n  6 | \t// Write your Javascript code here using the Velo framework API\n  7 |');
